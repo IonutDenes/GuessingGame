@@ -1,4 +1,3 @@
-﻿namespace Ionut06
 {
 	class Program
 	{
