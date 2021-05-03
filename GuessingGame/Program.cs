@@ -1,3 +1,5 @@
+﻿using System;
+namespace Ionut06
 {
 	class Program
 	{
@@ -63,7 +65,7 @@
 				{
 					return;
 				}
-			}
-		}
+            }
+        }
 	}
 }
